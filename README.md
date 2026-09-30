@@ -1,1 +1,1 @@
-Pemrograman Berbasis Orientasi
+Pemrograman Berbasis Objek (PBO)
